@@ -1,0 +1,18 @@
+#brown{
+    border: 1px solid greenyellow;
+    background-color: #b0a16e;
+    height: 150px;
+
+}
+#white{
+    border: 1px solid red;
+    width: 50%;
+    height: 550px;
+    margin:auto;
+}
+#logo{
+    border: 1px solid red;
+    width: 10%;
+    margin-left: 200px;
+    margin-top: 30px;
+}
