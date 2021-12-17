@@ -2,6 +2,7 @@
     font-family: "Playfair Display",sans-serif;
     line-height: 105%;
 }
+
 #outer-div{
 
     vertical-align: top;
@@ -149,7 +150,7 @@
 }
 #footer-img{
     width: 100%;
-    
+    height: 350px;
 }
 
 #info-box{
